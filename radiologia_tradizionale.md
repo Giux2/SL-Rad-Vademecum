@@ -1,56 +1,8 @@
 
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon.ico" />
-  <link rel="apple-touch-icon" sizes="180x180" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/favicon-16x16.png">
-  <link rel="manifest" href="https://sl-rad.github.io/SL-Rad-Vademecum/favicon/site.webmanifest">
-  <title>SL Rad Vademecum</title> 
-</head>
-
-<div class="topnav">
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum">Home</a>
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html">Radiologia Tradizionale</a>
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/ecografia.html">Ecografia</a>
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html">Tomografia Computerizzata</a>
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/risonanza_magnetica.html">Risonanza Magnetica</a>
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/pronto_soccorso.html">Pronto Soccorso</a>
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html">Telefoni</a>
-</div>
 
 - - -
 
 # **RADIOLOGIA TRADIZIONALE**
-
-- - -
-
-- [**RADIOLOGIA TRADIZIONALE**](#radiologiatradizionale)
-  - [ATTIVITA' SALA](#attivita-sala)
-  - [**REFERTAZIONE** E TELEFONO](#refertazione-e-telefono)
-  - [DENSITOMETRIA OSSEA](#densitometria-ossea)
-  - [ESAMI CONTRASTOGRAFICI](#esami-contrastografici)
-- [**CONTRASTOGRAFICI**](#contrastografici)
-  - [**TRANSITO ESOFAGO-GASTRICO**](#transitoesofago-gastrico)
-    - [Preparazione e accoglienza del paziente](#preparazioneeaccoglienzadel-paziente)
-    - [Esecuzione](#esecuzione)
-  - [**ILEOGRAFIA & RETTOGRAFIA**](#ileografia--rettografia)
-    - [Prenotazione](#prenotazione)
-    - [Materiali](#materiali)
-    - [Esecuzione](#esecuzione-1)
-  - [**CISTOGRAFIA RETROGRADA MINZIONALE (MASCHILE-FEMMINILE)**](#cistografia-retrograda-minzionale-maschile-femminile)
-    - [Materiali](#materiali-1)
-    - [Esecuzione](#esecuzione-2)
-  - [**STUDIO DEL TRANSITO INTESTINALE CON MARKER**](#studio-del-transito-intestinale-con-marker)
-    - [Indicazioni](#indicazioni)
-    - [Materiali](#materiali-2)
-    - [Esecuzione](#esecuzione-3)
-  - [VIDEOFLUOROGRAFIA (VFG)](#videofluorografia-vfg)
-  - [BIBLIOGRAFIA](#bibliografia)
-  - [NOTE](#note)
-    - [**"RX Scheletro"**](#rx-scheletro)
-    - [**Studio età ossea**](#studio-età-ossea)
-      - [Analisi](#analisi)
-      - [Refertazione](#refertazione)
 
 - - -
 
