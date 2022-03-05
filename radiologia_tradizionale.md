@@ -1,11 +1,3 @@
-
-
-- - -
-
-# **RADIOLOGIA TRADIZIONALE**
-
-- - -
-
 ## ATTIVITA' SALA
 
 Orario: 8-16
